@@ -28,7 +28,7 @@ This repository contains the implementation of a machine learning model designed
 
 ## Team Members and Roles
 
-- **Data Handler**: Mariam Azeez
+- **Data Handler**: [Mariam Azeez](https://github.com/azeezmariam/)
 - **Vanilla Model Implementor**: Charite Uwatwembi
 - **Model Optimizer 1 (L1 Regularization)**: Daniel Ndungu
 - **Model Optimizer 2 (L2 Regularization)**: Mohamed Yasin
