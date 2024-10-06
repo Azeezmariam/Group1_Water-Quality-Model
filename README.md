@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Water Quality Model - Group 1
 
 ## Project Overview
