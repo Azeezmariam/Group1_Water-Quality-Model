@@ -20,9 +20,10 @@ This repository contains the implementation of a machine learning model designed
 8. [Error Analysis](#error-analysis)
 9. [Final Model Evaluation](#final-model-evaluation)
 10. [Conclusion](#conclusion)
-11. [How to Run](#how-to-run)
-12. [Dependencies](#dependencies)
-13. [References](#references)
+11. [Documentation](#Documentation)
+12. [How to Run](#how-to-run)
+13. [Dependencies](#dependencies)
+14. [References](#references)
 
 ---
 
@@ -125,6 +126,10 @@ The best-performing model utilized **L2 regularization** with dropout layers. Th
 The project successfully demonstrated how L1 and L2 regularization techniques influence model performance. L2 regularization, particularly with dropout, performed better, showing the importance of careful regularization in neural networks. The next steps include further tuning of model hyperparameters and addressing class imbalance for better performance.
 
 ---
+
+## Documentation
+
+Click on this following Link and Read the Documentation from here: [Documentation](https://docs.google.com/document/d/1JrpVEHqQG0UpjUn0RRVGTrggUii2M-USV_53kSHxhFc/edit?usp=sharing)
 
 ## How to Run
 
