@@ -171,3 +171,6 @@ pip install -r requirements.txt
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
 =======
+
+
+Colab Notebook: [link](https://colab.research.google.com/drive/1w9A35dqm5Tg5TnGhlwKgysqOeUDOuRKo?usp=sharing)
