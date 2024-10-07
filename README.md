@@ -77,7 +77,7 @@ The dataset was cleaned to address missing values by filling them with the mean 
   - Hidden layer with 32 units and ReLU activation.
   - Output layer with sigmoid activation for binary classification.
 - Optimized using Adam with binary cross-entropy as the loss function.
-- The model was trained for 100 epochs, achieving around **65.09%** accuracy on the test set.
+- The model was trained for 100 epochs, achieving around **64.63%** accuracy on the test set.
 
 ---
 
