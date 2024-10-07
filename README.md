@@ -21,7 +21,7 @@ This repository contains the implementation of a machine learning model designed
 9. [Final Model Evaluation](#final-model-evaluation)
 10. [Conclusion](#conclusion)
 11. [Documentation](#Documentation)
-12. [Group Collaboration](#Group Collaboration)
+12. [Group Collaboration](#Group-Collaboration)
 13. [How to Run](#how-to-run)
 14. [Dependencies](#dependencies)
 15. [References](#references)
