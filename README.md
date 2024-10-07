@@ -21,9 +21,10 @@ This repository contains the implementation of a machine learning model designed
 9. [Final Model Evaluation](#final-model-evaluation)
 10. [Conclusion](#conclusion)
 11. [Documentation](#Documentation)
-12. [How to Run](#how-to-run)
-13. [Dependencies](#dependencies)
-14. [References](#references)
+12. [Group Collaboration](#Group Collaboration)
+13. [How to Run](#how-to-run)
+14. [Dependencies](#dependencies)
+15. [References](#references)
 
 ---
 
@@ -130,6 +131,10 @@ The project successfully demonstrated how L1 and L2 regularization techniques in
 ## Documentation
 
 Click on this following Link and Read the Documentation from here: [Documentation](https://docs.google.com/document/d/1JrpVEHqQG0UpjUn0RRVGTrggUii2M-USV_53kSHxhFc/edit?usp=sharing)
+
+## Group Collaboration
+
+For this group project contribution and collaboration, Please check the Noteboook.
 
 ## How to Run
 
